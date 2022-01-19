@@ -13,11 +13,12 @@ public class RestDbApplication {
 
 		SpringApplication.run(RestDbApplication.class, args);
 
-		/*List<Integer> l = List.of(1,2,3,4,4,5,6,67,7);
-		System.out.println(l);
-		l.add(29999);
-		System.out.println(l);*/
+		//List<Integer> l = List.of(1,2,3,4,4,5,6,67,7);
+		// System.out.println(l);
+		// l.add(29999);
+		// System.out.println(l);
 
+		System.out.println("Hallo");
 		System.out.println("Hallo");
 
 	}
