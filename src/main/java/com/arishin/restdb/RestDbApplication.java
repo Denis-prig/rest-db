@@ -20,6 +20,8 @@ public class RestDbApplication {
 
 		System.out.println("Hallo");
 		System.out.println("Hallo");
+		System.out.println("Hallo");
+		System.out.println("Hallo");
 
 	}
 
